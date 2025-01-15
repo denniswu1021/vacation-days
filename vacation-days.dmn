@@ -50,7 +50,7 @@
           <text>-</text>
         </inputEntry>
         <inputEntry id="_1FBC5DB3-6675-4276-B951-B1F779BB75B3">
-          <text>&gt;30</text>
+          <text>&gt;=30</text>
         </inputEntry>
         <outputEntry id="_6D969204-DA94-43D9-9E7E-901349E278AF">
           <text>7</text>
