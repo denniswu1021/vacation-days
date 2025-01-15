@@ -85,7 +85,7 @@
           <text></text>
         </outputValues>
         <defaultOutputEntry id="_FA81FE7C-6E7E-4995-8597-4377041EE6E7" expressionLanguage="">
-          <text></text>
+          <text>if Extra days case-2 = null then 0 else Extra days case-2</text>
         </defaultOutputEntry>
       </output>
       <annotation name="Annotations" />
