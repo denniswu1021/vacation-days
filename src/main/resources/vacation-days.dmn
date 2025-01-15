@@ -29,6 +29,9 @@
         <outputValues id="_CE6F31A7-213F-432F-8E30-9F75BAEC6547" expressionLanguage="">
           <text></text>
         </outputValues>
+        <defaultOutputEntry id="_6030492A-D62B-4530-8F2B-86D3AC8DBA6E">
+          <text>if Extra days case-1 = null then 0 else Extra days case-1</text>
+        </defaultOutputEntry>
       </output>
       <annotation name="Annotations" />
       <rule id="_14115A1A-2863-4974-99F0-B0A067412735">
@@ -138,7 +141,11 @@
           <text>Years of Service</text>
         </inputExpression>
       </input>
-      <output id="_E603865F-0A83-4EA8-A8AD-8F112A95C3F8" name="Output-1" />
+      <output id="_E603865F-0A83-4EA8-A8AD-8F112A95C3F8" name="Output-1">
+        <defaultOutputEntry id="_068AEB15-A5F3-41C7-9974-4BAD860B792E">
+          <text>if Extra days case-3 = null then 0 else Extra days case-3</text>
+        </defaultOutputEntry>
+      </output>
       <annotation name="Annotations" />
       <rule id="_68CA5A7B-E7CE-43CA-9CD0-4C3BEF23B0EF">
         <inputEntry id="_DAE608F7-E403-4A11-A156-BD1D55370170">
