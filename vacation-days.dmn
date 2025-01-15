@@ -192,7 +192,7 @@
     </informationRequirement>
     <literalExpression id="_E3744547-F705-4540-81CC-FA0488AC79A5" typeRef="number" label="Total Vacation Days">
       <text>Base Vacation Days +
-max( Extra days case-1, Extra days case-3)
+max( Extra days case-1, Extra days case-3) +
 Extra days case-2</text>
     </literalExpression>
   </decision>
